@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.env.local
+*.local
+.DS_Store
+coverage/
+infrastructure/node_modules/
+infrastructure/cdk.out/
+infrastructure/dist/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
